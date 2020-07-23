@@ -1,0 +1,11 @@
+{
+  <existing plugin namespaces>,
+  "team_filters": {
+    "team_names": [
+      "Red", "White", "Blue", "Green"
+    ],
+    "languages": [
+      "English", "French", "Spanish"
+    ]
+  }
+}
